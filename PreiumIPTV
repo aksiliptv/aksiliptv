@@ -1,0 +1,7 @@
+echo "# PREMIUM iptv" >> README.md
+git init
+git add README.md
+git commit -m "Participate"
+git branch -M main
+git More about Our Premium Service https://abonnement-smartiptv.fr/product/abonnement-iptv-premium-12-mois/
+git Tutorials about how it works https://abonnementiptv-smart.com/product/abonnement-smart-iptv-1-mois/
